@@ -21,7 +21,7 @@ The following behaviors are not acceptable in our community:
 
 ## Reporting Issues
 
-If you experience or witness any behavior that violates this Code of Conduct, please report it by emailing [your-email@example.com] or contacting a moderator directly. All reports will be handled confidentially.
+If you experience or witness any behavior that violates this Code of Conduct, please report it by emailing esvemanuel@gmail.com or contacting a moderator directly. All reports will be handled confidentially.
 
 ## Consequences of Unacceptable Behavior
 
@@ -29,12 +29,6 @@ Anyone found to be engaging in unacceptable behavior may face consequences, incl
 
 - A warning
 - Temporary suspension from the community
-- Permanent removal from the community
-
-## Acknowledgements
-
-This Code of Conduct is inspired by and adapted from other open-source communities, such as the [Contributor Covenant](https://www.contributor-covenant.org/).
-
----
-
+- Permanent removal from the communit
+- 
 Thank you for helping us make this community a safe and welcoming space for everyone!
